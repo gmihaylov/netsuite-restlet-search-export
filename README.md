@@ -9,14 +9,13 @@ Simple RESTlet that loads saved search and return its results into JSON string.
 
 ## Usage/Examples
 
-```javascript
-Call RESTlet and get results from 0 to 5
+- Call RESTlet and get saved search results from 0 to 5:
+```
 https://XXXX.app.netsuite.com/app/site/hosting/restlet.nl?script=XX&deploy=XX&limit=true&from=0&to=5
 }
 ```
-
-```javascript
-Call RESTlet and get all results
+- Call RESTlet and get all saved search results:
+```
 https://XXXX.app.netsuite.com/app/site/hosting/restlet.nl?script=XX&deploy=XX
 }
 ```
