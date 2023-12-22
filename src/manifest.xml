@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>NetSuite RESTlet Search Export</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
